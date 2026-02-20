@@ -1,0 +1,5 @@
+{
+  "name": "Sistema da Denise",
+  "description": "A flexible data management tool to create custom columns, manage records, and export data directly to Excel files.",
+  "requestFramePermissions": []
+}
